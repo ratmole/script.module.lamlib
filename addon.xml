@@ -9,6 +9,6 @@
 		<description lang="en">Helper module for all kind of stuff</description>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<source>https://github.com/lambda81/script.module.lamlib</source>
+		<source>https://github.com/ratmole/script.module.lamlib</source>
 	</extension>
 </addon>
